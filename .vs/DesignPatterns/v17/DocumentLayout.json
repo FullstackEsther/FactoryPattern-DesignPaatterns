@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\sealogistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\sealogistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\airlogistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\airlogistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\landlogistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\landlogistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\imedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\imedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\wadood\\onedrive\\desktop\\designpatterns\\designpatterns\\logistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743AF7B2-6D32-44CA-AB57-BA81D8AEE475}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\logistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Ship.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Ship.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Ship.cs",
+              "RelativeToolTip": "DesignPatterns\\Ship.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:33:12.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Airplane.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Airplane.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Airplane.cs",
+              "RelativeToolTip": "DesignPatterns\\Airplane.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:25:06.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Truck.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Truck.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Truck.cs",
+              "RelativeToolTip": "DesignPatterns\\Truck.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:23:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMedium.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\IMedium.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\IMedium.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\IMedium.cs",
+              "RelativeToolTip": "DesignPatterns\\IMedium.cs",
+              "ViewState": "AQIAAAUAAACANDMzMzMLwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:12:28.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirLogistics.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\AirLogistics.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\AirLogistics.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\AirLogistics.cs",
+              "RelativeToolTip": "DesignPatterns\\AirLogistics.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:32:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeaLogistics.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\SeaLogistics.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\SeaLogistics.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\SeaLogistics.cs",
+              "RelativeToolTip": "DesignPatterns\\SeaLogistics.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:32:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LandLogistics.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\LandLogistics.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\LandLogistics.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\LandLogistics.cs",
+              "RelativeToolTip": "DesignPatterns\\LandLogistics.cs",
+              "ViewState": "AQIAAAUAAACgMzMzMzMbwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:29:32.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logistics.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Logistics.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Logistics.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Logistics.cs",
+              "RelativeToolTip": "DesignPatterns\\Logistics.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA4vQ0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:27:31.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\WADOOD\\OneDrive\\Desktop\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:26:54.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
